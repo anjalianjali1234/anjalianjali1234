@@ -48,7 +48,7 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git" />
+<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,firebase" />
 
 </div>
 
@@ -80,20 +80,25 @@ MapMan • MetaboAnalyst
 ## 🌐 Connect With Me
 
 📧 1234anjalianjali1234@gmail.com  
-🔗 https://www.linkedin.com/in/dr-anjlli-chaudhry-7b0bb965  
-🔬 https://www.researchgate.net/profile/Anjali-Chaudhary  
+ 
+<p align="left">
+<a href="https://twitter.com/anjalianjali121" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="anjalianjali121" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dr-anjlli-chaudhry-7b0bb965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="dr-anjlli-chaudhry-7b0bb965" height="35" width="40" /></a>
+<a href="https://instagram.com/1234anjalianjali1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" alt="1234anjalianjali1234" height="35" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Anjali-Chaudhary/research" target="blank"><img align="center" src="https://cdn.simpleicons.org/researchgate" alt="Anjali-Chaudhary" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhryanjlli&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalianjali1234&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhryanjlli&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhryanjlli&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalianjali1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalianjali1234&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
